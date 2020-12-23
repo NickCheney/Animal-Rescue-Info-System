@@ -1,0 +1,26 @@
+table, th, td {
+  border: 1px solid yellow;
+  text-align: center;
+  color: white;
+
+}
+
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+p {
+  color: white;
+}
+
+h1, h2 {
+  text-align: center;
+color: white;
+}
+
+
+
+body {
+  background-color: #4d79ff;
+}
